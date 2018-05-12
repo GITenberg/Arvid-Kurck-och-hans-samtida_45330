@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42601'
     url: http://www.gutenberg.org/2009/agents/42601
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45330#Arvid-Kurck-och-hans-samtida
 gutenberg_issued: '2014-04-06'
 gutenberg_type: Text
 identifiers:
